@@ -10,7 +10,7 @@
   push: true,
   toString: true,
   ngMinErr: true,
-  angularModule: true,
+  angularModule: true, blablab
   uid: true,
   REGEX_STRING_REGEXP: true,
   VALIDITY_STATE_PROPERTY: true,
