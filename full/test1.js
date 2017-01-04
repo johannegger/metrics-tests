@@ -8,8 +8,8 @@ var access = function( elems, fn, key, value, chainable, emptyGet, raw ) {
 	var i = 0,
 		len = elems.length,
 		bulk = key == null;
-
-	// Sets many values
+		
+	// Sets many valuess
 	if ( jQuery.type( key ) === "object" ) {
 		chainable = true;
 		for ( i in key ) {
