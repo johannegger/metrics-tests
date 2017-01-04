@@ -14,7 +14,6 @@
   uid: true,
   REGEX_STRING_REGEXP: true,
   VALIDITY_STATE_PROPERTY: true,
-
   lowercase: true,
   uppercase: true,
   manualLowercase: true,
